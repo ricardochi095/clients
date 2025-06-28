@@ -1,4 +1,4 @@
-<p align="PC mobile">
+<p align="bitwarden">
   <img src="https://raw.githubusercontent.com/bitwarden/brand/main/screenshots/apps-combo-logo.png" alt="Bitwarden" />
 </p>
 <p align="center">
